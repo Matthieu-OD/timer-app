@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {},
   },
-  purge: ['./index.html', './src/**/*.{svelte,js,ts}']
+  purge: ['./index.html', './src/**/*.{svelte,js,ts}'],
   plugins: [],
   darkMode: false,
 }

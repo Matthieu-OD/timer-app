@@ -1,7 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilitiesi;
-
-h2 {
-  color: "red";
-}
